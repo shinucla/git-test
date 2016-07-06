@@ -19,17 +19,11 @@
    $ ssh-add ~/.ssh/github_id_rsa
 
 3) Adding a new SSH key to your GitHub account
-
    In the top right corner of any page, click your profile photo, then click Settings.
-
    In the user settings sidebar, click SSH and GPG keys.
-
    Click New SSH key.
-
    In the "Title" field, add a descriptive label for the new key. 
-
    Paste the content of github_id_rsa.pub into the "Key" field.
-
    Click Add SSH key.
 
 4) Testing your SSH connection
